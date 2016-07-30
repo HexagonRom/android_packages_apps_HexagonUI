@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!-- Please do not copy, this is a Work of Victor Burgoa -->
+
+
+
+
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimary">#ff26c6da</item>
+        <item name="android:colorPrimaryDark">#ff00acc1</item>
+        <item name="android:navigationBarColor">#ff26c6da</item>
+        <item name="android:colorAccent">#ffffffff</item>
+
+    </style>
+</resources>

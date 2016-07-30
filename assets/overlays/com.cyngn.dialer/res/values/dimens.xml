@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_elevation">0.0dip</dimen>
+    <dimen name="tab_elevation">0.0dip</dimen>
+    <dimen name="contact_list_card_elevation">0.0dip</dimen>
+    <dimen name="incall_action_bar_elevation">0.0dip</dimen>
+    <dimen name="primary_call_elevation">0.0dip</dimen>
+    <dimen name="dialpad_elevation">0.0dip</dimen>
+
+    <dimen name="search_box_elevation">0.0dip</dimen>
+    <dimen name="call_log_expanded_translation_z">0.0dip</dimen>
+    <dimen name="floating_action_button_translation_z">0.0dip</dimen>
+    <dimen name="dialpad_key_letters_size">10.0sp</dimen>
+    <dimen name="dialpad_key_plus_size">12.0sp</dimen>
+    
+</resources>

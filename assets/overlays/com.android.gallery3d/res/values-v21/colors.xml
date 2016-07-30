@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="albumset_background">@*common:color/bg</color>
+    <color name="albumset_placeholder">@*common:color/bg</color>
+-->
+    <color name="albumset_label_background">@color/primary</color>
+
+    <color name="albumset_label_title">@*common:color/text</color>
+    <color name="albumset_label_count">@*common:color/text</color>
+
+    <color name="fab">#fffc5346</color>
+
+<!--
+    <color name="album_background">@*common:color/bg</color>
+    <color name="photo_background">@*common:color/bg</color>
+    <color name="cache_background">@*common:color/bg</color>
+    <color name="slideshow_background">@*common:color/bg</color>
+
+    <color name="filtershow_categoryview_background">@*common:color/bg</color>
+    <color name="filtershow_background">@*common:color/bg</color>-->
+</resources>

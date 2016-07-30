@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+
+
+    <style name="SharedTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimaryDark">#00bcd4</item>
+        <item name="android:navigationBarColor">#00bcd4</item>
+
+    </style>
+</resources>

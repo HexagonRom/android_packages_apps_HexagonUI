@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="calendar_ampm_label">#ffbdbdbd</color>
+    <color name="date_picker_overflow_plus_color">#ffbdbdbd</color>
+    <color name="material_grey_600">#ffbdbdbd</color>
+    <color name="month_view_more_events_color">#ffbdbdbd</color>
+    <color name="quantum_grey600">#ffbdbdbd</color>
+    <color name="suggestion_description_color">#ff5d5d5d</color>
+    <!--
+    <color name="calendar_ampm_label">#ffbdbdbd</color>
+    <color name="date_picker_overflow_plus_color">#ffbdbdbd</color>
+    <color name="material_grey_600">#ffbdbdbd</color>
+    <color name="month_view_more_events_color">#ffbdbdbd</color>
+    <color name="quantum_grey600">#ffbdbdbd</color>
+    <color name="suggestion_description_color">#ffbdbdbd</color>
+
+
+
+    <color name="launchscreen_status_bar_background">#ff5d5d5d</color>
+    <color name="mainview_status_bar_background">#ff5d5d5d</color>
+    <color name="details_status_bar_color">#ff5d5d5d</color>
+    <color name="groove_wizard_button_black">#ff5d5d5d</color>
+    <color name="month_mini_day_number">#ff5d5d5d</color>
+    <color name="oobe_dot_color">#ff5d5d5d</color>
+    <color name="calendar_visible">#ff5d5d5d</color>
+
+
+
+
+
+
+
+
+
+
+    <color name="primary_material_light">#ffeeeeee</color>
+    <color name="material_grey_100">#ffeeeeee</color>
+    <color name="quantum_grey100">#ffeeeeee</color>
+    <color name="quickcreate_usage_hint_contact_accepted_hint_background">#ffeeeeee</color>
+    <color name="tablet_banner_background_color">#ffeeeeee</color>
+    <color name="usage_hint_background">#ffeeeeee</color>
+
+
+ This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+</resources>

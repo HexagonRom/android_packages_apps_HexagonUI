@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2015 The CyanogenMod Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <path
+        android:fillColor="@color/qs_icon_on"
+        android:pathData="M22.7,34.9H6.2c-0.6,0-0.9-0.4-0.9-0.9V8.9C5.3,8.4,5.7,8,6.2,8h32.4c0.6,0,0.9,0.4,0.9,0.9v4.4
+c0,0.6-0.4,0.9-0.9,0.9c-0.6,0-0.9-0.4-0.9-0.9V9.9H7.2v23.2h15.5c0.6,0,0.9,0.4,0.9,0.9C23.6,34.6,23.3,34.9,22.7,34.9z
+M42.7,39.1
+V19.2c0-0.6-0.4-0.9-0.9-0.9H28.9c-0.6,0-0.9,0.4-0.9,0.9v19.8c0,0.6,0.4,0.9,0.9,0.9h12.9C42.2,40,42.7,39.5,42.7,39.1z
+M29.8,20.2 h11v18h-11V20.2z
+M23.3,39.1c0-0.6-0.4-0.9-0.9-0.9h-6.5c-0.6,0-0.9,0.4-0.9,0.9s0.4,0.9,0.9,0.9h6.5C23,40,23.3,39.5,23.3,39.1z" />
+</vector>

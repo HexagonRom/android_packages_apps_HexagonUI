@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+    <item type="color" name="action_bar_background">#ffdb4437</item> <!-- color de barra de estado -->
+    <item type="color" name="quantum_googred500">#ffdb4437</item> <!-- color boton fab -->
+    <item type="color" name="quantum_googred700">#ffcc2e1f</item> <!-- color de barra de estado dark -->
+
+
+
+
+
+
+
+    <!-- Enough decompile this app! Try to be original and not just copied the ideas of this theme-->
+
+
+
+
+
+
+
+    <color name="quantum_bluegrey700">#ff455a64</color> <!-- color de barra de estado en comunidades -->
+
+    <color name="background_material_light">#fff5f5f5</color>
+    <color name="background_floating_material_light">#fff5f5f5</color>
+
+
+
+    <color name="material_grey_300">#ffffffff</color>
+
+    <color name="quantum_grey300">#ffffffff</color>
+    <color name="card_event_divider">#ffeeeeee</color>
+    <color name="button_bar_divider">#ffffffff</color>
+    <color name="notification_divider">#ffe5e5e5</color>
+    <color name="one_up_divider">#ffffffff</color>
+    <color name="promo_divider_color">#ffeeeeee</color>
+    <color name="oob_button_divider">#ffffffff</color>
+    <color name="year_row_divider">#ffffffff</color>
+    <color name="photo_action_bar_layout_divider_background">#00000000</color>
+    <color name="send_content_divider">#00000000</color>
+    <color name="story_empty_state_divider">#ffffffff</color>
+    <color name="poll_divider">#ffffffff</color>
+    <color name="square_card_divider">#ffffffff</color>
+    <color name="acl_picker_section_divider">#ffffffff</color>
+    <color name="friend_locations_divider">#ffffffff</color>
+    <color name="card_separator">#ffffffff</color>
+    <color name="quantum_black_divider">#00000000</color>
+    <color name="quantum_white_divider">#00000000</color>
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+    <color name="text_blue">#ffc62828</color><!-- color textos urls -->
+
+
+    <color name="google_blue">#ffc62828</color><!-- color azul -->
+    <color name="preset_list_item_selected">#ffc62828</color>
+    <color name="tb_item_title_active">#ffc62828</color>
+    <color name="fo_item_title_active">#ffc62828</color>
+    <color name="item_selector_sub_panel_item_border_color">#ffc62828</color>
+    <color name="dark_blue">#ffc62828</color>
+    <color name="current_account_banner_bg">#ffc62828</color>
+    <color name="acl_picker_selection_list_blue">#ffc62828</color>
+    <color name="friend_locations_link">#ffc62828</color>
+    <color name="commenter_indicator">#ffc62828</color>
+    <color name="card_commenter_indicator">#ffc62828</color>
+    <color name="quantum_googblue500">#ffc62828</color>
+    <color name="photo_action_bar_actionmode_background">#ffc62828</color>
+    <color name="photos_home_tab_color">#ffc62828</color>
+    <color name="photos_home_tab_text_selected_color">#ffc62828</color>
+
+
+    <!-- comunidades -->
+
+    <color name="quantum_googgreen700">#ffcb3325</color>
+    <color name="quantum_googgreen500">#ffdb4437</color>
+
+
+
+
+
+    <color name="material_deep_teal_500">#ffdb4437</color>
+    <color name="quantum_teal500">#ffcb3325</color>
+
+    <!-- barra inferior -->
+
+    <color name="quantum_grey900">#ffcc2e1f</color>
+
+
+
+    <!-- CIRCULO alrededor de dot de notificaccion -->
+
+    <color name="quantum_bluegrey900">#ffffffff</color>
+
+    <color name="text_red">#ffc62828</color>
+
+    <!-- Please do not copy, this is a Work of Victor Burgoa -->
+
+    <color name="quantum_grey200">#ffeeeeee</color>
+
+
+    <color name="quantum_lightblue500">#ffdb4437</color>
+
+    <!-- encuestas -->
+    <color name="quantum_lightblue700">#ffd23f32</color>
+    <color name="quantum_lightblue900">#ffd53629</color>
+
+
+
+
+</resources>

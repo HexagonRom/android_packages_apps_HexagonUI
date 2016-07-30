@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <!-- Light Keyboard -->
+
+	    <item type="drawable" name="btn_keyboard_key_active_lxx_light">@drawable/btn_keyboard_key_active_lxx_dark</item>
+	    <item type="drawable" name="btn_keyboard_key_active_pressed_lxx_light">@drawable/btn_keyboard_key_active_lxx_dark</item>
+	    <item type="drawable" name="keyboard_suggest_strip_lxx_light">@color/bg_light</item>
+     <item type="drawable" name="keyboard_background_lxx_light">@color/bg_light</item>
+	    <item type="drawable" name="btn_keyboard_key_pressed_on_lxx_light">@drawable/keyboard_btn_button_light</item>
+	    <item type="drawable" name="btn_keyboard_key_pressed_off_lxx_light">@drawable/keyboard_btn_button_light</item>
+	    <item type="drawable" name="btn_keyboard_key_normal_on_lxx_light">@drawable/keyboard_btn_button_light</item>
+	    <item type="drawable" name="btn_keyboard_key_normal_off_lxx_light">@drawable/keyboard_btn_button_light</item>
+	    <item type="drawable" name="btn_keyboard_spacebar_normal_lxx_light">@drawable/keyboard_btn_button_light</item>
+
+
+
+   <!-- Dark Keyboard -->
+
+
+	    <item type="drawable" name="btn_keyboard_key_active_pressed_lxx_dark">@drawable/btn_keyboard_key_active_lxx_dark</item>
+	    <item type="drawable" name="keyboard_suggest_strip_lxx_dark">@color/bg_dark</item>
+     <item type="drawable" name="keyboard_background_lxx_dark">@color/bg_dark</item>
+	    <item type="drawable" name="btn_keyboard_key_pressed_on_lxx_dark">@drawable/keyboard_btn_button_dark</item>
+	    <item type="drawable" name="btn_keyboard_key_pressed_off_lxx_dark">@drawable/keyboard_btn_button_dark</item>
+	    <item type="drawable" name="btn_keyboard_key_normal_on_lxx_dark">@drawable/keyboard_btn_button_dark</item>
+	    <item type="drawable" name="btn_keyboard_key_normal_off_lxx_dark">@drawable/keyboard_btn_button_dark</item>
+	    <item type="drawable" name="btn_keyboard_spacebar_normal_lxx_dark">@drawable/keyboard_btn_button_dark</item>
+
+
+</resources>

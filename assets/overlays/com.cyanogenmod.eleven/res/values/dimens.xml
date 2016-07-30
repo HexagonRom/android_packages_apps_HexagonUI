@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardview_default_radius">4.0dip</dimen>
+    <dimen name="cardview_default_elevation">0.0dip</dimen>
+    <dimen name="action_bar_elevation">0.0dip</dimen> 
+    <dimen name="tab_selected_underline_height">1.0dip</dimen>
+</resources>

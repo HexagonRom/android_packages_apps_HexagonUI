@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="fab_color_1">#ff26c6da</color>
+    <color name="primary">#ff26c6da</color>
+    <color name="primary_new">#ff26c6da</color>
+
+
+
+
+    <color name="accent">#ff26c6da</color>
+    <color name="primary_dark">#ff00acc1</color>
+    <color name="primary_dark_new">#ff26c6da</color>
+
+
+
+</resources>

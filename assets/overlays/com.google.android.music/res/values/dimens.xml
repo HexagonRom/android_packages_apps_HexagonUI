@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <dimen name="overlay_top_shadow_height">70.0dip</dimen>
+    <dimen name="nowplaying_screen_shadow_height">10.0dip</dimen>
+    <dimen name="shadow_height">5.0dip</dimen>
+
+</resources>

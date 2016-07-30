@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--- Style for mobile network/network operators style -->
+
+    <style name="NetworkOperatorsSettingsTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <item name="android:actionBarTheme">@android:style/ThemeOverlay.Material.Dark.ActionBar</item>
+    <item name="android:colorPrimary">@*common:color/primary</item>
+    <item name="android:colorPrimaryDark">@*common:color/primary</item>
+    <item name="android:navigationBarColor">@*common:color/primary</item>
+    <item name="android:windowBackground">@*common:color/bg_light</item>
+    <item name="android:textColorPrimary">@*common:color/settings_text</item>
+    <item name="android:textColorSecondary">@*common:color/settings_text</item>
+
+</style>
+
+
+ <!--- Mobile Network settings style in settings 3rd option -->
+    <style name="Theme.Material.Settings" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:actionBarSize">56.0dip</item>
+        <item name="android:colorPrimary">@*common:color/primary</item>
+        <item name="android:colorPrimaryDark">@*common:color/primary</item>
+        <item name="android:navigationBarColor">@*common:color/primary</item>
+        <item name="android:windowBackground">@*common:color/bg_light</item>
+        <item name="android:textColorPrimary">@*common:color/settings_text</item>
+        <item name="android:textColorSecondary">@*common:color/settings_text</item>
+    </style>
+
+    <style name="SettingsLight" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:textColorPrimary">@*common:color/settings_text</item>
+        <item name="android:textColorSecondary">@*common:color/settings_text</item>
+        <item name="android:windowBackground">@*common:color/bg_light</item>
+        <item name="android:actionBarStyle">@style/DialtactsActionBarStyle</item>
+        <item name="android:colorPrimaryDark">@*common:color/primary</item>
+        <item name="android:navigationBarColor">@*common:color/primary</item>
+
+    </style>
+    
+    <style name="DialtactsActionBarStyle" parent="@style/TelephonyActionBarStyle">
+    </style>
+
+    <style name="TelephonyActionBarStyle" parent="@android:style/Widget.Material.ActionBar">
+        <item name="android:icon">@android:color/transparent</item>
+        <item name="android:background">@*common:color/primary</item>
+    </style>
+    
+</resources>

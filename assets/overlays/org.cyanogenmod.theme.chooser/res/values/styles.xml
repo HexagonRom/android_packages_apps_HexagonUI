@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:textColorPrimary">@color/primary_text_color</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionBarOverlay">false</item>
+        <item name="android:actionMenuTextColor">@android:color/white</item>
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">@color/accent</item>
+		
+    </style>
+
+	    <style name="ChooserToolbarStyle" parent="@android:style/Widget.Material.Toolbar">
+        <item name="android:background">?android:colorPrimary</item>
+        <item name="android:titleTextAppearance">@style/ChooserActionBarTitleText</item>
+    </style>
+    <style name="ChooserActionBarTitleText" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:textColor">@*common:color/ab_text_color</item>
+    </style>
+	
+	
+</resources>

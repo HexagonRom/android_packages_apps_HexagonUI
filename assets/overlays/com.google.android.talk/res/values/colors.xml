@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- color texto en comversacion local  -->
+    <color name="realtimechat_message_text_outgoing">#ff183600</color>
+    <color name="realtimechat_message_text_outgoing_otr">#ff183600</color>
+
+
+
+
+
+
+    <color name="fab_hangouts_primary_color">#ff8ec73e</color>
+    <color name="ongoing_hangout_background">#ff8ec73e</color>
+    <color name="floating_action_button_unpressed_color">#ff8ec73e</color>
+
+    <color name="floating_action_button_pressed_color">#ff89c13c</color>
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+    <!-- linea verde -->
+    <color name="dialpad_separator_line_color">#ffffffff</color>
+
+    <!-- color verde primario  -->
+    <color name="quantum_googgreen500">#ff89c13c</color>
+    <color name="hangout_fmf_in_call_promo_eligible">#ff89c13c</color>
+    <color name="fab_hangouts_image_tint_color">#ff98aab4</color>
+
+
+
+    <!-- color verde secundario dark  -->
+    <color name="quantum_googgreen700">#ff5aa51e</color>
+
+
+
+    <!-- color dialogo mio  -->
+    <color name="quantum_bluegrey100">#ffafe37c</color>
+
+
+    <!-- color iconos en comversacion  -->
+    <color name="quantum_bluegrey500">#ff8a9ea8</color>
+
+
+    <!-- color background en comversacion  -->
+    <color name="quantum_bluegrey50">#fff5f5f5</color>
+
+
+    <!-- color url -->
+    <color name="quantum_googblue600">#ff689f38</color>
+
+    <!-- color resalto en texto -->
+    <color name="quantum_googgreenA200">#ff98d544</color>
+
+</resources>

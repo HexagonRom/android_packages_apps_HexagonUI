@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Volume Panel Icon CM13-->
+    <drawable name="ic_volume_ringer">@drawable/ic_audio_phone</drawable>
+    <drawable name="ic_volume_ringer_vibrate">@drawable/ic_audio_phone_mute</drawable>
+    <drawable name="ic_volume_ringer_mute">@drawable/ic_audio_ring_mute</drawable>
+
+    <drawable name="ic_volume_media">@drawable/ic_audio_media</drawable>
+    <drawable name="ic_volume_media_mute">@drawable/ic_audio_media_mute</drawable>
+
+    <drawable name="ic_volume_alarm">@drawable/ic_audio_alarm</drawable>
+    <drawable name="ic_volume_alarm_mute">@drawable/ic_audio_alarm_mute</drawable>
+
+    <drawable name="ic_volume_notification">@drawable/ic_audio_ring</drawable>
+    <drawable name="ic_volume_notification_mute">@drawable/ic_audio_ring_mute</drawable>
+
+    <drawable name="ic_volume_system">@drawable/ic_audio_speaker</drawable>
+    <drawable name="ic_volume_system_mute">@drawable/ic_audio_speaker_mute</drawable>
+
+    <drawable name="ic_volume_bt_sco">@drawable/ic_audio_bt</drawable>
+
+    <drawable name="ic_volume_media_bt">@drawable/ic_audio_bt</drawable>
+    <drawable name="ic_volume_media_bt_mute">@drawable/ic_audio_bt_mute</drawable>
+
+    <!-- Volume Panel Icon CM12.1 -->
+    <drawable name="ic_ringer_audible">@drawable/ic_audio_phone</drawable>
+    <drawable name="ic_audio_phone">@drawable/ic_audio_phone</drawable>
+    <drawable name="ic_ringer_vibrate">@drawable/ic_audio_ring_mute</drawable>
+    <drawable name="ic_audio_ring_notif_vibrate">@drawable/ic_audio_ring_mute</drawable>
+
+    <drawable name="ic_audio_vol">@drawable/ic_audio_media</drawable>
+    <drawable name="ic_audio_vol_mute">@drawable/ic_audio_media_mute</drawable>
+
+    <!-- Wifi QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_wifi_detail_empty">@drawable/status_bar_toggle_wifi_off</drawable>
+    <drawable name="ic_qs_wifi_no_network">@drawable/status_bar_toggle_wifi_off</drawable>
+    <drawable name="ic_qs_wifi_disabled">@drawable/status_bar_toggle_wifi_off</drawable>
+    <drawable name="ic_qs_wifi_0">@drawable/status_bar_toggle_wifi_on</drawable>
+    <drawable name="ic_qs_wifi_1">@drawable/status_bar_toggle_wifi_on</drawable>
+    <drawable name="ic_qs_wifi_2">@drawable/status_bar_toggle_wifi_on</drawable>
+    <drawable name="ic_qs_wifi_3">@drawable/status_bar_toggle_wifi_on</drawable>
+    <drawable name="ic_qs_wifi_4">@drawable/status_bar_toggle_wifi_on</drawable>
+    <drawable name="ic_qs_wifi_full_0">@drawable/status_bar_toggle_wifi_on</drawable>
+    <drawable name="ic_qs_wifi_full_1">@drawable/status_bar_toggle_wifi_on</drawable>
+    <drawable name="ic_qs_wifi_full_2">@drawable/status_bar_toggle_wifi_on</drawable>
+    <drawable name="ic_qs_wifi_full_3">@drawable/status_bar_toggle_wifi_on</drawable>
+    <drawable name="ic_qs_wifi_full_4">@drawable/status_bar_toggle_wifi_on</drawable>
+
+    <!-- Signal QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_signal_no_network">@drawable/status_bar_toggle_data_off</drawable>
+    <drawable name="ic_qs_signal_no_signal">@drawable/status_bar_toggle_data_off</drawable>
+    <drawable name="ic_qs_signal_disabled">@drawable/status_bar_toggle_data_off</drawable>
+    <drawable name="ic_qs_signal_0">@drawable/status_bar_toggle_data_off</drawable>
+    <drawable name="ic_qs_signal_1">@drawable/status_bar_toggle_data_off</drawable>
+    <drawable name="ic_qs_signal_2">@drawable/status_bar_toggle_data_off</drawable>
+    <drawable name="ic_qs_signal_3">@drawable/status_bar_toggle_data_off</drawable>
+    <drawable name="ic_qs_signal_4">@drawable/status_bar_toggle_data_off</drawable>
+    <drawable name="ic_qs_signal_full_0">@drawable/status_bar_toggle_data_on</drawable>
+    <drawable name="ic_qs_signal_full_1">@drawable/status_bar_toggle_data_on</drawable>
+    <drawable name="ic_qs_signal_full_2">@drawable/status_bar_toggle_data_on</drawable>
+    <drawable name="ic_qs_signal_full_3">@drawable/status_bar_toggle_data_on</drawable>
+    <drawable name="ic_qs_signal_full_4">@drawable/status_bar_toggle_data_on</drawable>
+
+    <!-- Bluetooth QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_bluetooth_on">@drawable/status_bar_toggle_bluetooth_on</drawable>
+    <drawable name="ic_qs_bluetooth_off">@drawable/status_bar_toggle_bluetooth_off</drawable>
+    <drawable name="ic_qs_bluetooth_detail_empty">@drawable/status_bar_toggle_bluetooth_on</drawable>
+    <drawable name="ic_qs_bluetooth_connecting">@drawable/status_bar_toggle_bluetooth_on</drawable>
+    <drawable name="ic_qs_bluetooth_connected">@drawable/status_bar_toggle_bluetooth_on</drawable>
+
+    <!-- DND QS Tile Icon 13 -->
+    <drawable name="ic_dnd_disable">@drawable/status_bar_toggle_quiet_mode_off</drawable>
+    <drawable name="ic_dnd_disable_animation">@drawable/status_bar_toggle_quiet_mode_off</drawable>
+    <drawable name="ic_dnd_total_silence_disable">@drawable/status_bar_toggle_quiet_mode_off</drawable>
+    <drawable name="ic_dnd_total_silence_disable_animation">@drawable/status_bar_toggle_quiet_mode_off</drawable>
+    <drawable name="ic_qs_dnd_on_priority">@drawable/status_bar_toggle_quiet_mode_on</drawable>
+    <drawable name="ic_qs_dnd_on_total_silence">@drawable/status_bar_toggle_quiet_mode_on</drawable>
+
+    <!-- Lockscreen QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_lock_screen_on">@drawable/status_bar_toggle_lock_on</drawable>
+    <drawable name="ic_qs_lock_screen_off">@drawable/status_bar_toggle_lock</drawable>
+
+    <!-- Hotspot QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_brightness_auto_on">@drawable/status_bar_toggle_brightness_auto</drawable>
+    <drawable name="ic_qs_brightness_auto_off">@drawable/status_bar_toggle_brightness_manual</drawable>
+
+    <!-- Cast QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_cast_on">@drawable/status_bar_toggle_cast_on</drawable>
+    <drawable name="ic_qs_cast_off">@drawable/status_bar_toggle_cast_off</drawable>
+
+    <!-- Hotspot QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_hotspot_on">@drawable/status_bar_toggle_wifi_ap_on</drawable>
+    <drawable name="ic_qs_hotspot_off">@drawable/status_bar_toggle_wifi_ap_off</drawable>
+    <drawable name="ic_hotspot_enable_animation">@drawable/status_bar_toggle_wifi_ap_on</drawable>
+    <drawable name="ic_hotspot_disable_animation">@drawable/status_bar_toggle_wifi_ap_off</drawable>
+
+    <!-- Airplane Mode QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_airplane_on">@drawable/status_bar_toggle_flight_mode_on</drawable>
+    <drawable name="ic_qs_airplane_off">@drawable/status_bar_toggle_flight_mode_off</drawable>
+    <drawable name="ic_signal_airplane_enable_animation">@drawable/status_bar_toggle_flight_mode_on</drawable>
+    <drawable name="ic_signal_airplane_disable_animation">@drawable/status_bar_toggle_flight_mode_off</drawable>
+
+    <!-- Flashlight QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_flashlight_on">@drawable/status_bar_toggle_torch_on</drawable>
+    <drawable name="ic_qs_flashlight_off">@drawable/status_bar_toggle_torch_off</drawable>
+    <drawable name="ic_signal_flashlight_enable_animation">@drawable/status_bar_toggle_torch_on</drawable>
+    <drawable name="ic_signal_flashlight_disable_animation">@drawable/status_bar_toggle_torch_off</drawable>
+
+    <!-- Location QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_location_on">@drawable/status_bar_toggle_gps_on</drawable>
+    <drawable name="ic_qs_location_off">@drawable/status_bar_toggle_gps_off</drawable>
+    <drawable name="ic_qs_location_battery_saving">@drawable/status_bar_toggle_gps_on</drawable>
+    <drawable name="ic_signal_location_enable">@drawable/status_bar_toggle_gps_on</drawable>
+    <drawable name="ic_signal_location_enable_animation">@drawable/status_bar_toggle_gps_on</drawable>
+    <drawable name="ic_signal_location_disable">@drawable/status_bar_toggle_gps_off</drawable>
+    <drawable name="ic_signal_location_disable_animation">@drawable/status_bar_toggle_gps_off</drawable>
+
+    <!-- Rotation QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_rotation_on">@drawable/status_bar_toggle_rotate_lock_on</drawable>
+    <drawable name="ic_qs_rotation_off">@drawable/status_bar_toggle_rotate_lock_off</drawable>
+    <drawable name="ic_portrait_to_auto_rotate_animation">@drawable/status_bar_toggle_rotate_lock_off</drawable>
+    <drawable name="ic_landscape_to_auto_rotate_animation">@drawable/status_bar_toggle_rotate_lock_off</drawable>
+    <drawable name="ic_portrait_from_auto_rotate_animation">@drawable/status_bar_toggle_rotate_lock_on</drawable>
+    <drawable name="ic_landscape_from_auto_rotate_animation">@drawable/status_bar_toggle_rotate_lock_on</drawable>
+
+    <!-- Invert Colors QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_inversion_on">@drawable/status_bar_toggle_paper_mode_on</drawable>
+    <drawable name="ic_qs_inversion_off">@drawable/status_bar_toggle_paper_mode_off</drawable>
+    <drawable name="ic_invert_colors_enable_animation">@drawable/status_bar_toggle_paper_mode_on</drawable>
+    <drawable name="ic_invert_colors_disable_animation">@drawable/status_bar_toggle_paper_mode_off</drawable>
+
+    <!-- Sync QS Tile Icon 12.1 -->
+    <drawable name="ic_qs_sync_on">@drawable/status_bar_toggle_sync_on</drawable>
+    <drawable name="ic_qs_sync_off">@drawable/status_bar_toggle_sync_off</drawable>
+
+</resources>

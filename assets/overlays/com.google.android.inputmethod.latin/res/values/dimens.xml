@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="candidate_separator_inset">0.0dip</dimen>
+    <dimen name="softkey_space_bg_inset_bottom">11.5dip</dimen>
+    <dimen name="softkey_space_bg_inset_left">1.0dip</dimen>
+    <dimen name="softkey_space_bg_inset_right">18.5dip</dimen>
+    <dimen name="softkey_space_bg_inset_top">18.0dip</dimen>
+</resources>

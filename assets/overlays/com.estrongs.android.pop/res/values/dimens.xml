@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_elevation">8.0dip</dimen>
+    <dimen name="fab_translation_z_pressed">6.0dip</dimen>
+    <dimen name="fab_content_size">30.0dip</dimen>
+    <dimen name="fab_size_normal">56.0dip</dimen>
+    <dimen name="fab_size_mini">54.0dip</dimen>
+    <dimen name="fab_border_width">0.5dip</dimen>
+
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Please do not copy, this is a Work of Victor Burgoa -->
+
+
+    <style name="MusicToolbar" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimary">#ff106ecc</item>
+        <item name="android:colorPrimaryDark">#ff005db9</item>
+        <item name="android:navigationBarColor">#ff106ecc</item>
+    </style>
+</resources>

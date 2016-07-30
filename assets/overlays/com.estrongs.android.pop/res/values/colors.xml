@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="shadow_start_color">#00000000</color>
+    <color name="shadow_mid_color">#00000000</color>
+
+
+
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+
+    <color name="tint_toolbar_bottom_icon_hightlight">#ff42a5f5</color>
+
+    <color name="multi_window_tab_indicator_selected">#ff42a5f5</color>
+
+    <color name="multi_window_tab_text_selected">#ff42a5f5</color>
+
+    <color name="window_status_bar">#ff42a5f5</color>
+
+    <color name="float_action_button">#ff42a5f5</color>
+
+</resources>

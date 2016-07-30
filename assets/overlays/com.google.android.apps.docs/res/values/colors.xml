@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Please do not copy, this is a Work of Victor Burgoa -->
+
+
+    <color name="quantum_grey300">#ffffffff</color>
+    <color name="quantum_grey400">#ffbdbdbd</color>
+    <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
+    <color name="primary_material_light">#ffbdbdbd</color>
+
+
+
+    <!-- text-->
+
+    <color name="m_cool_grey_70">#ff4c4c4c</color>
+
+    <color name="quantum_googred500">#ffdb4437</color>
+
+    <color name="button_material_dark">#ff5a595b</color>
+
+    <color name="m_material_button_dark">#ff5a595b</color>
+
+
+
+
+
+
+    <color name="background_floating_material_light">#fffbfbfb</color>
+    <color name="background_material_light">#fffbfbfb</color>
+    <color name="manage_addons_background">#fffbfbfb</color>
+
+
+
+
+</resources>

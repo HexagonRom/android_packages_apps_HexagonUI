@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+    <dimen name="snackbar_primary_text_padding_multiline">0.0dip</dimen>
+
+    <dimen name="quantum_fab_diameter_mini">45.0dip</dimen>
+
+    <dimen name="divider_height">0dip</dimen>
+</resources>

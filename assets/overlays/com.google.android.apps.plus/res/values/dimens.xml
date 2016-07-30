@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="dimen" name="space_header_secondary_text_size">@dimen/text_size_12_original</item>
+    <dimen name="text_size_12">0sp</dimen>
+    <dimen name="navigation_bar_y_top_padding">15.0dip</dimen>
+    <item type="dimen" name="navigation_footer_text_size">@dimen/text_size_12_original</item>
+    <dimen name="text_size_12_original">12.0sp</dimen>
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )
+
+    <dimen name="author_name_view_line_spacing_width">0.0dip</dimen>
+    <dimen name="hairline_separator_thickness">0.0dip</dimen>
+    <dimen name="parameter_readout_scale_index_line_width">0.0dip</dimen>
+
+    <dimen name="text_size_12">10.0sp</dimen>
+-->
+</resources>

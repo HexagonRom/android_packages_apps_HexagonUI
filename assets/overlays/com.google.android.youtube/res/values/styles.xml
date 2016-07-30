@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Please do not copy, this is a Work of Victor Burgoa
+
+    <style name="Theme.YouTube.Home" parent="@style/Theme.YouTube.Settings"/>
+    <style name="Theme.YouTube.Settings" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:navigationBarColor">#ec3737</item>
+        <item name="android:colorPrimary">#ec3737</item>
+        <item name="android:colorPrimaryDark">#d52d2d</item>
+
+        <item name="android:colorAccent">#ec3737</item>
+    </style>-->
+
+</resources>

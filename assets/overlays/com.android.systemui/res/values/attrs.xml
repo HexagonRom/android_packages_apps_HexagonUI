@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="card_layout_resourceID" format="reference" />
+    <attr name="card_shadow_layout_resourceID" format="reference" />
+    <attr name="card_header_layout_resourceID" format="reference" />
+    <attr name="card_thumbnail_layout_resourceID" format="reference" />
+    <attr name="list_card_layout_resourceID" format="reference" />
+    <attr name="list_card_layout_resourceIDs" format="reference" />
+    <attr name="card_list_item_dividerHeight" format="dimension" />
+    <attr name="keyCode" format="integer" />
+    <attr name="keyRepeat" format="boolean" />
+    <attr name="text" format="string" />
+    <attr name="insetLeft" format="dimension" />
+    <attr name="rowHeight" format="dimension" />
+    <attr name="recentItemLayout" format="reference" />
+    <attr name="minSize" format="dimension" />
+    <attr name="maxSize" format="dimension" />
+    <attr name="holdTime" format="integer" />
+    <attr name="decayTime" format="integer" />
+    <attr name="frameColor" format="color" />
+    <attr name="amPmStyle">
+        <enum name="gone" value="2" />
+        <enum name="normal" value="0" />
+        <enum name="small" value="1" />
+    </attr>
+    <attr name="orientation">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="frameWidth" format="dimension" />
+    <attr name="framePadding" format="dimension" />
+    <attr name="activeFrameColor" format="color" />
+    <attr name="regularFontFamily" format="string" />
+    <attr name="activatedFontFamily" format="string" />
+    <attr name="datePattern" format="string" />
+    <attr name="numColumns" format="integer" />
+    <attr name="verticalSpacing" format="dimension" />
+    <attr name="horizontalSpacing" format="dimension" />
+    <attr name="backgroundColor" format="integer" />
+    <attr name="fillColor" format="integer" />
+    <attr name="singleToneColor" format="integer" />
+    <attr name="ignoreRightInset" format="boolean" />
+    <attr name="hasOverlappingRendering" format="boolean" />
+    <attr name="table">
+        <enum name="cm_global" value="4" />
+        <enum name="cm_secure" value="5" />
+        <enum name="cm_system" value="3" />
+        <enum name="global" value="1" />
+        <enum name="secure" value="2" />
+        <enum name="system" value="0" />
+    </attr>
+    <attr name="defaultValue" format="integer" />
+    <attr name="viewLocation" format="integer" />
+    <attr name="centered" format="boolean" />
+    <attr name="selectedColor" format="color" />
+    <attr name="strokeWidth" format="dimension" />
+    <attr name="unselectedColor" format="color" />
+    <attr name="indicatorFillColor" format="color" />
+    <attr name="pageColor" format="color" />
+    <attr name="radius" format="dimension" />
+    <attr name="snap" format="boolean" />
+    <attr name="strokeColor" format="color" />
+    <attr name="layout_maxWidth" format="dimension" />
+    <attr name="layout_maxHeight" format="dimension" />
+    <attr name="digit" format="integer" />
+    <attr name="textView" format="reference" />
+    <attr name="scaledTextSize" format="integer" />
+    <attr name="allCaps" format="boolean" />
+</resources>

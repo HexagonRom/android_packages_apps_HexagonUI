@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+    <color name="bg_grid">#ffededed</color>
+    <color name="bg_grid_transparent">#00f2f2f2</color>
+    <color name="bg_library_actionbar_search">#fff2f2f2</color>
+    <color name="bt_white_pressed">#fff2f2f2</color>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FileManager.Theme.Material.Light.NoActionBar" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:navigationBarColor">@color/material_palette_blue_primary_dark</item>
+        <item name="android:colorPrimaryDark">@color/material_palette_blue_primary_dark</item>
+        <item name="android:colorPrimary">@color/material_palette_blue_primary</item>
+    </style>
+
+    <!--- This style works in file manager settings area -->
+    <style name="FileManager.Theme.Material.Light" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowBackground">@color/default_background</item>
+        <item name="android:navigationBarColor">@color/material_palette_blue_primary_dark</item>
+        <item name="android:colorPrimaryDark">@color/material_palette_blue_primary_dark</item>
+        <item name="android:colorPrimary">@color/material_palette_blue_primary</item>
+
+    </style>
+
+
+
+</resources>

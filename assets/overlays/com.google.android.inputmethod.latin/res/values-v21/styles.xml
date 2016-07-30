@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <style name="platformActivityTheme" parent="@android:style/Theme.DeviceDefault.Light" />
+    <style name="platformSettingsTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">@*common:color/primary</item>
+        <item name="android:colorPrimaryDark">@*common:color/primary_dark</item>
+        <item name="android:colorAccent">@*common:color/accent</item>
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="android:windowBackground">@*common:color/bg_dark</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">#afffffff</item>
+        <item name="android:colorControlHighlight">#26a1a1a1</item>
+        <item name="android:colorControlNormal">#ffa1a1a1</item>
+    </style>
+    
+    <style name="platformDialogTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+    
+    <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
+		<item name="android:background">@*common:color/primary</item>
+	</style>
+    -->
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+
+
+
+
+
+
+    <dimen name="account_delegation_avatar_size">30.0dip</dimen>
+    <dimen name="user_icon_size">20.0dip</dimen>
+    <dimen name="abc_search_view_text_min_width">100.0dip</dimen>
+    <dimen name="abc_text_size_title_material">15.0sp</dimen>
+    <dimen name="watch_extra_line_spacing">0dip</dimen>
+    <dimen name="card_in_line_selector_margin_left">0dip</dimen>
+    <dimen name="card_in_line_selector_margin_right">0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">10.0dip</dimen>
+
+    <dimen name="watch_while_mini_player_shadow_size">0.0dip</dimen>
+    <dimen name="cardview_compat_inset_shadow">0.0dip</dimen>
+    <dimen name="live_chat_shadow_height">0.0dip</dimen>
+
+
+</resources>

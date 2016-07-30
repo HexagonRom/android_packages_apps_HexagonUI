@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+please do not use the element of this theme without the consent of Victor Burgoa
+( victorburgoadeveloper@gmail.com )-->
+
+
+    <color name="status_bar_grey_background">#006eb4</color>   <!-- statusbar dark-->
+
+    <color name="grey_3_whiteout">#005ba1</color>   <!-- tab icon no select-->
+
+    <color name="grey_9_whiteout">#005ba1</color>    <!-- tab icon select)-->
+
+
+    <!-- accion bar y tab color-->
+    <color name="grey_0_5">#0288d1</color>
+    <color name="grey_0_whiteout">#0288d1</color>
+
+</resources>

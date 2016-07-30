@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--
+    <style name="MainTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimaryDark">#2c3035</item>
+        <item name="android:navigationBarColor">#2c3035</item>
+        <item name="android:statusBarColor">#2c3035</item>
+    </style>
+
+    <style name="Theme.Chrome" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimaryDark">#616161</item>
+        <item name="android:statusBarColor">#2c3035</item>
+    </style>
+-->
+</resources>

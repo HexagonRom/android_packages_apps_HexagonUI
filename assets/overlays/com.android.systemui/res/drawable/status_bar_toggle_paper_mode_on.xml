@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@*common:drawable/status_bar_toggle_paper_mode_on"
+    android:tint="@color/miui_qs_icon_on"/>

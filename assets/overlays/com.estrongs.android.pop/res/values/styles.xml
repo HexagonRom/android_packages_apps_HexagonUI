@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+
+    <style name="Base.Theme.AppCompat" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimary">#fff5f6f7</item>
+        <item name="android:colorPrimaryDark">#ff388fd8</item>
+        <item name="android:navigationBarColor">#ff42a5f5</item>
+    </style>
+</resources>

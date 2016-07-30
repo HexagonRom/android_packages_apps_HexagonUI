@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Gmail's Styles-->
+<!--LAST REVISED ON: 2:21AM EST 13/02/2015-->
+
+<resources>
+    <!-- Please do not copy, this is a Work of Victor Burgoa
+
+    <style name="UnifiedEmailTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:navigationBarColor">#ffef3a36</item>
+        <item name="android:colorPrimaryDark">#ffde2420</item>
+        <item name="android:colorPrimary">#ffef3a36</item>
+        <item name="android:colorAccent">#ffef3a36</item>
+        <item name="android:textColorPrimary">#525252</item>
+        <item name="android:textColorSecondary">#525252</item>
+    </style>
+
+
+
+    <style name="MailActivityTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimary">#ffef3a36</item>
+        <item name="android:colorPrimaryDark">#ffd52f2b</item>
+        <item name="android:navigationBarColor">#ffef3a36</item>
+        <item name="android:colorAccent">#ffef3a36</item>
+
+    </style>
+    <style name="NotificationPrimaryText">
+		<item name="android:textColor">#ff313131</item>
+	</style>
+
+	<style name="NotificationSecondaryText">
+		<item name="android:textColor">#ff313131</item>
+	</style>-->
+</resources>

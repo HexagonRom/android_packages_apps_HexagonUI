@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+    <color name="primary_blue">#2097f3</color>
+    <color name="accent_material_light">#ffb300</color>
+    <color name="primary_blue_dark">#1976d2</color>
+    <color name="background_material_light">#ffeeeeee</color>
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+    <color name="result_background">#2097f3</color>
+    <color name="suggest_title">#fffb8c00</color>
+
+    <color name="activity_background">#ffeeeeee</color>
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <color name="primary">@*common:color/primary</color>
+    <color name="primary_dark">@*common:color/primary_dark</color>
+    <color name="accent">#afffffff</color>
+    <color name="primary_text_color">#ffffffff</color> 
+    <color name="drawer_item_default">@color/primary_dark</color>
+</resources>

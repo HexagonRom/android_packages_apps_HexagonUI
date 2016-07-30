@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing SystemUI.apk's Colors-->
+<!--LAST REVISED ON: 9:36PM EST 10/02/2015-->
+
+<resources>
+
+
+
+
+
+    <color name="accent_normal">#ff00b0ff</color>
+    <color name="play_indicator">#ffbdbdbd</color>
+    <color name="seekbar_fill">#ffbdbdbd</color>
+
+    <color name="player_background">#ff1a1e28</color>
+
+</resources>

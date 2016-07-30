@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="0.0dip"
+        android:top="0.0dip"
+        android:right="0.0dip"
+        android:bottom="0.0dip"
+        android:drawable="@drawable/qs_icon_bg_on"/>
+    <item
+        android:top="@dimen/qs_icon_padding_on"
+        android:right="@dimen/qs_icon_padding_on"
+        android:bottom="@dimen/qs_icon_padding_on"
+        android:left="@dimen/qs_icon_padding_on">
+        <bitmap android:src="@*common:drawable/controlcenter_1_btn_zenmode_on"
+            android:tint="@color/qs_icon_on"/>
+    </item>
+</layer-list>

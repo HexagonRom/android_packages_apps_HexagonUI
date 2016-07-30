@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!-- Enough decompile this app! Try to be original and not just copied the ideas of this theme-->
+
+
+
+
+    <color name="playlist_header_color_primary_dark">#b0bec5</color> <!-- color barra de estado dark playlist-->
+    <color name="playlist_header_color_primary">#cfd8dc</color> <!-- color de barra de estado en playlist -->
+
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+    <color name="theme_main_color_accent">#e6cccccc</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="entry_hint_color">#ffcccccc</color>
+    <color name="share_panel_divider_color">#ffcccccc</color>
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+    <color name="theme_main_actionbar_controls_color">#ffffffff</color>
+    <color name="theme_main_tab_text_color_normal">#B8FFFFFF</color>
+    <color name="theme_main_color_primary">#ec3737</color>
+    <color name="theme_main_color_primary_dark">#d52d2d</color>
+    <color name="ripple_material_dark">#35000000</color>
+    <color name="ripple_material_light">#35000000</color>
+    <color name="snackbar_action_button_ripple">#35000000</color>
+    <!-- Please do not copy, this is a Work of Victor Burgoa -->
+    <color name="color_brand_primary">#ffd52d2d</color>
+    <color name="color_primary">#ffd52d2d</color>
+    <color name="subscribe_button_subscribe_font_color">#ffd52d2d</color>
+    <color name="upload_edit_video_tutorial_background">#ffd52d2d</color>
+
+</resources>

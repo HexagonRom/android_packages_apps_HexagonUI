@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+    <!-- Enough decompile this app! Try to be original and not just copied the ideas of this theme-->
+
+
+
+
+
+
+
+
+    <!-- primary -->
+    <color name="rich_banner_overlay">#ff475269</color>
+    <color name="tumblr_100">#ff475269</color>
+    <color name="tumblr_blue_opacity_90">#ff475269</color>
+    <color name="tumblr_blue_opacity_95">#ff475269</color>
+
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+    <!-- primary dark -->
+    <color name="tumblr_dark">#ff3b465d</color>
+
+
+    <!-- unselect iconbar -->
+    <color name="rainy_gray">#ff707d99</color>
+
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+    <!-- fab -->
+    <color name="chat_post_color">#ff4dd0e1</color>
+    <color name="optica_default_accent_color">#ff4dd0e1</color>
+    <color name="tumblr_accent">#ff4dd0e1</color>
+
+
+
+
+
+</resources>

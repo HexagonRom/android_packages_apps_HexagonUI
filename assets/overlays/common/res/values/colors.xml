@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ <color name="qs_icon_bg_off">#ff2f78ad</color>
+ <color name="qs_icon_bg_on">#ff2f78ad</color>
+ <color name="qs_icon_off">#ff2f78ad</color>
+ <color name="qs_icon_on_alpha">#66ffffff</color>
+ <color name="qs_icon_on">#fff</color>
+ <color name="ic_icons">#03a9f4</color>
+
+ <color name="side_icon_color">#03a9f4</color>
+
+ <!-- New -->
+ <color name="qs_detail_empty">#24b0bec5</color>
+
+ <color name="primary">#ff808ebd</color>
+ <color name="primary2">#495f78</color>
+ <color name="primary_dark">#ff808ebd</color>
+ <color name="accent">#ff0090DB</color>
+ <color name="accent2">#5f0090DB</color>
+ <color name="accent_transparent">#5022a3f5</color>
+ <color name="accent_dark">@color/primary2</color>
+ <color name="btn_check_to_on">#ff5dbdc8</color>
+ <color name="btn_check_to_off">#ff5dbdc8</color>
+
+ <!-- Sms -->
+ <color name="mms_primary">#ffffa300</color>
+ <color name="mms_primary_dark">#ffe69000</color>
+ <color name="mms_accent">#ffffb400</color>
+
+ <!-- File manager -->
+ <color name="fm_primary">#ff455879</color>
+ <color name="fm_primary_dark">#ff3f4f6d</color>
+ <color name="fm_accent">#77e79c0b</color>
+
+ <!-- Contacts -->
+ <color name="contacts_primary">#ff009599</color>
+ <color name="contacts_primary_dark">#ff00868a</color>
+ <color name="contacts_accent">#ffd7a510</color>
+
+ <!-- Dialer -->
+ <color name="dialer_primary">#ff009599</color>
+ <color name="dialer_primary_dark">#ff00868a</color>
+ <color name="dialer_accent">#ffd7a510</color>
+
+ <!-- Music -->
+ <color name="music_primary">#ff32323a</color>
+ <color name="music_primary_dark">#ff32323a</color>
+ <color name="music_accent">#ff1990db</color>
+ <color name="music_background">#670D25</color>
+
+ <!-- Calendar -->
+ <color name="calendar_primary">#32AAA6</color>
+ <color name="calendar_primary_dark">#32AAA6</color>
+ <color name="calendar_accent">#ffEE714B</color>
+
+
+ <!-- Gallery -->
+ <color name="gallery_primary">#ff7870cc</color>
+ <color name="gallery_primary_dark">#ff7870cc</color>
+ <color name="gallery_accent">#ffffa300</color>
+
+
+
+ <!-- Background -->
+ <color name="dark_bg">#ff101010</color>
+ <color name="bg_dark">#ff101010</color>
+ <color name="bg_light">#ffffffff</color>
+ <color name="light_bg">#ffffffff</color>
+ <color name="bg_dark_pressed">#ff212121</color>
+ <color name="card_bg">#ff212121</color>
+ <color name="dash_bg">#ffeceff1</color>
+ <color name="background">#ff000000</color>
+ <color name="backgroundd">#ff161616</color>
+ <color name="backgrounddd">#ff323232</color>
+ <color name="backgroundt">#90000000</color>
+ <color name="black_t">#a0000000</color>
+ <color name="backgrounddt">#90161616</color>
+ <color name="backgroundddt">#90323232</color>
+ <color name="ripple_dark">#ff101010</color>
+ <color name="ripple_light">#ffeeeeee</color>
+
+
+ <!-- Text color -->
+ <color name="settings_text">#ff848484</color>
+ <color name="ab_text_color">#cfffffff</color>
+ <color name="light_text_color">#ff252525</color>
+ <color name="dark_text_color">#eee</color>
+ <color name="text">#ffffffff</color>
+ <color name="textt">#ddffffff</color>
+ <color name="texttt">#bbffffff</color>
+ <color name="link">#ff29abe2</color>
+ <color name="hint">#cc000000</color>
+ <color name="transparent">#00000000</color>
+ <color name="shadow">#40ffffff</color>
+
+ <!-- Fresh color -->
+
+ <color name="fresh_lblue">#26C9FF</color>
+ <color name="fresh_dblue">#3454CC</color>
+ <color name="fresh_blue">#1A9BF1</color>
+ <color name="fresh_red">#E33535</color>
+ <color name="fresh_lgreen">#00BB80</color>
+ <color name="fresh_green">#00BB80</color>
+ <color name="fresh_orange">#ffEE714B</color>
+ <color name="fresh_purple">#ff872ce4</color>
+ <color name="fresh_pink">#ffea1e63</color>
+ <color name="fresh_yellow">#ffeca637</color>
+ <color name="pblue_t">#cc748B96</color>
+ <color name="pbluee_t">#cc62757e</color>
+ <color name="dblue_t">#cc343d41</color>
+
+</resources>

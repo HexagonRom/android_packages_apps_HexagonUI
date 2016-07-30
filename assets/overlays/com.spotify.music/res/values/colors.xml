@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cat_grayscale_15">#1d1e21</color>    <!--STATUSBAR-->
+    <color name="cat_grayscale_8">#18191c</color>     <!--BACKGROUND-->
+    <color name="cat_grayscale_20">#00000000</color>     <!--Texto transparente e all iconos-->
+    <color name="cat_grayscale_12">#18191c</color>    <!--MODO ALEATORIO-->
+    <color name="cat_grayscale_55">#35ffffff</color>     <!--Texto transparente e all iconos-->
+    <color name="bg_filter">#18191c</color>
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+    <color name="ripple_material_dark">#81d649</color>
+    <color name="ripple_material_light">#81d649</color>
+    <color name="green">#81d649</color>
+    <color name="highlighted_text_material_dark">#81d649</color>
+    <color name="highlighted_text_material_light">#81d649</color>
+    <color name="bg_pressed_overlay">#81d649</color>
+    <color name="cat_light_green">#81d649</color>
+    <color name="cat_light_green_20">#81d649</color>
+    <color name="cat_light_green_40">#81d649</color>
+    <color name="cat_light_green_5">#81d649</color>
+    <color name="cat_medium_green">#81d649</color>
+    <color name="cat_medium_green_40">#81d649</color>
+    <color name="cat_dark_green">#81d649</color>
+    <color name="cat_dark_green_40">#00000000</color>
+</resources>

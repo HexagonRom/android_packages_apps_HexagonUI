@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+   <color name="material_deep_teal_200">@*common:color/accent</color>
+   <color name="material_deep_teal_500">@*common:color/primary</color>
+   <color name="material_blue_grey_800">@*common:color/primary</color>
+   <color name="material_blue_grey_900">@*common:color/primary</color>
+   <color name="material_blue_grey_950">@*common:color/primary</color>
+   <color name="accent_material_light">@*common:color/accent</color>
+   <color name="user_icon_1">@*common:color/accent</color>
+   <color name="ripple_material_dark">@*common:color/accent_transparent</color>
+   <color name="ripple_material_light">@*common:color/accent_transparent</color>
+   <color name="accent_material_dark">@*common:color/accent</color>
+   <color name="highlighted_text_dark">@*common:color/accent</color>
+   <color name="highlighted_text_light">@*common:color/accent</color><!--
+
+   <color name="button_material_dark">@*common:color/primary</color>
+   <color name="button_material_light">@*common:color/primary</color>-->
+   <color name="primary_material_dark">@*common:color/primary</color>
+   <color name="primary_material_light">@*common:color/primary</color>
+   <color name="primary_dark_material_dark">@*common:color/primary</color>
+   <color name="primary_dark_material_light">@*common:color/primary</color>
+
+
+
+
+</resources>

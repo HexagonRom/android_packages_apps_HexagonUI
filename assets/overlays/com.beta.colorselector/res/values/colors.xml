@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing SystemUI.apk's Colors-->
+<!--LAST REVISED ON: 9:36PM EST 10/02/2015-->
+
+<resources>
+
+
+
+    <!-- This is a theme created with great care and I feel very proud,
+    please do not use the element of this theme without the consent of Victor Burgoa
+    ( victorburgoadeveloper@gmail.com )-->
+
+
+
+
+
+    <color name="lighter_gray">#ffffffff</color>
+
+</resources>

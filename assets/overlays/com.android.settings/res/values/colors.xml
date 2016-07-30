@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<color name="theme_primary">#ff222222</color>
+    <color name="theme_primary_dark">#ff222222</color>
+    <color name="theme_accent">#ffE84E40</color> <!-- Icon Settings tint RR-->
+ 	<color name="dashboard_category_background_color">@drawable/dashboard_category_background</color>
+  	<color name="dashboard_background_color">@drawable/dashboard_background</color>    
+ 	  	<!-- <color name="dashboard_background_color">@*common:color/background</color> -->
+  	<color name="switchbar_background_color">#ff222222</color>
+    <color name="switch_accent_color">#ffE84E40</color>
+	<color name="floating_action_button_touch_tint">#80dedede</color>
+
+    <color name="divider_color">@*common:color/transparent</color>
+    <color name="running_processes_system_ram">#ff3c3c3c</color>
+    <color name="running_processes_apps_ram">#ffa7a7a7</color>
+	
+	<color name="qs_tile_tint_color">@color/theme_accent</color>
+	
+	<color name="data_usage_fill_color">#ff222222</color>
+	
+	<color name="data_usage_chart_fillcolor">#ff222222</color>
+	<color name="data_usage_chart_fillcolor_secondary">#ff262626</color>
+    <color name="wifi_assistant_color_accent">#ff222222</color>
+
+	
+	</resources>
+

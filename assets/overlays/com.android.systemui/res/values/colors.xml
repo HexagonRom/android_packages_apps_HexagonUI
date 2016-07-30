@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="qs_icon_bg_off">@*common:color/qs_icon_bg_off</color>
+    <color name="qs_icon_bg_on">@*common:color/qs_icon_bg_on</color>
+    <color name="qs_icon_off">@*common:color/qs_icon_off</color>
+    <color name="qs_icon_on_alpha">@*common:color/qs_icon_on_alpha</color>
+    <color name="qs_icon_on">@*common:color/qs_icon_on</color>
+
+    <color name="miui_qs_icon_on">#ff2f78ad</color>
+    <color name="miui_qs_icon_off">#ff2f78ad</color>
+
+    <!-- 3 dots in quick setting panel color Marshmallow
+    <color name="default_circle_indicator_fill_color">#9f000000</color>
+    <color name="default_circle_indicator_page_color">#2f000000</color>
+    <color name="default_circle_indicator_stroke_color">#2f000000</color>-->
+    <color name="default_circle_indicator_fill_color">#00000000</color>
+    <color name="default_circle_indicator_page_color">@color/default_circle_indicator_fill_color</color>
+    <color name="default_circle_indicator_stroke_color">@color/default_circle_indicator_fill_color</color>
+
+    <!-- Recent task icon style -->
+    <color name="fab_color">#fffafafa</color>
+    <color name="floating_action_button_icon_color">#ff0c0c0c</color>
+
+    <color name="dark_mode_icon_color_single_tone">#ee000000</color>
+    <color name="dark_mode_icon_color_dual_tone_background">#3d000000</color>
+    <color name="dark_mode_icon_color_dual_tone_fill">#7a000000</color>
+    <color name="light_mode_icon_color_single_tone">#ffffffff</color>
+    <color name="light_mode_icon_color_dual_tone_background">#4dffffff</color>
+    <color name="light_mode_icon_color_dual_tone_fill">#ffffffff</color>
+
+    <color name="segmented_button_selected">#ff4a6b89</color>
+    <color name="segmented_button_unselected">#ff9eb0bf</color>
+    <color name="segmented_button_text_inactive">#ff9eb0bf</color>
+
+    <color name="theme_accent">@*common:color/primary</color>
+
+    <!-- Primary is quick settings. Secondary is header. Accent is life -->
+    <color name="system_primary_color">#fff0f0f0</color>
+    <color name="system_secondary_color">#fff0f0f0</color>
+    <color name="system_accent_color">@color/miui_qs_icon_on</color>
+    <color name="system_warning_color">@*common:color/accent</color>
+
+    <color name="notification_material_background_color">#fff8f8f8</color>
+    <color name="notification_ripple_untinted_color">@*common:color/accent_transparent</color>
+    <color name="notification_material_background_dimmed_color">#fff8f8f8</color>
+
+    <color name="qs_subhead">@*common:color/primary</color>
+    <color name="qs_text">@color/primary_text_color</color>
+    <color name="qs_tile_text">#ee2f78ad    </color>
+    <color name="bg_color">#2f78ad    </color>
+    <color name="qs_tile_divider">#33000000</color>
+
+    <!-- CM13 qs edit text -->
+    <color name="qs_title_text_color">@color/qs_tile_text</color>
+    <color name="qs_tile_reset_to_default_text_color">@color/qs_tile_text</color>
+    <color name="qs_tile_edit_header_instruction_text_color">@color/qs_tile_text</color>
+    <color name="qs_edit_header_instruction_text_color">@color/qs_tile_text</color>
+    <color name="qs_row_text_color">@color/qs_tile_text</color>
+
+    <!-- Text color when press & keep notification -->
+    <color name="notification_guts_title_color">@color/primary_text_color</color>
+    <color name="notification_guts_text_color">@color/secondary_text_color</color>
+
+    <!-- ================================================== -->
+
+    <color name="qs_detailed_default_text_color">@color/qs_tile_text</color>
+    <color name="qs_detailed_expansion_indicator_color">@color/qs_tile_text</color>
+    <color name="qs_detailed_title_text_color">@color/qs_tile_text</color>
+    <color name="qs_detailed_icon_tint_color">@color/qs_tile_text</color>
+
+    <color name="qs_detail_transition">#66FFFFFF</color>
+    <color name="qs_detail_progress_track">#00009688</color>
+
+    <color name="current_user_border_color">@*common:color/primary</color>
+
+    <!-- Background of the volume panel. See also: volume_dialog_background -->
+    <color name="volume_panel_background_color">@color/system_primary_color</color>
+    <color name="volume_icon_color">@color/primary_text_color</color>
+
+    <!-- Battery base color -->
+    <color name="batterymeter_base_color">#FFFFFFFF</color>
+
+    <color name="navbutton_ripple_color">@*common:color/accent</color>
+
+    <!-- QS Tile Data Usage Graph -->
+    <color name="data_usage_secondary">#99000000</color><!-- 60% white -->
+    <color name="data_usage_graph_track">#33000000</color><!-- 20% white -->
+    <color name="data_usage_graph_warning">@*common:color/accent</color>
+
+    <color name="primary_text_color">#ff6F747F</color>
+    <color name="secondary_text_color">#af6F747F</color>
+    <color name="primary_light_text_color">#ffffffff</color>
+    <color name="secondary_light_text_color">#9fffffff</color>
+
+</resources>

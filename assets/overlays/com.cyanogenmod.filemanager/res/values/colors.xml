@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="default_background">#ffffff</color>
+    <!-- ripple color-->
+
+    <color name="actionbar_palette_blue_primary">@*common:color/primary</color>
+
+    <!-- switches color-->
+    <color name="material_palette_blue_primary">@*common:color/primary</color>
+
+    <!-- status bar-->
+    <color name="material_palette_blue_primary_dark">@*common:color/primary_dark</color>
+    <color name="material_palette_blue_1">#ffa0d0fc</color>
+    <color name="material_palette_blue_2">#ff21292e</color>
+    <color name="material_palette_blue_3">#ff283438</color>
+    <color name="material_palette_blue_4">#ffa0d0fc</color>
+
+
+    <!-- divider color-->
+    <color name="divider_color">#7f263238</color>
+    <color name="divider_color_light">#7f263238</color>
+
+
+    <color name="navbar">@color/material_palette_blue_primary</color>
+    <color name="merzee">@color/material_palette_blue_primary</color>
+
+
+</resources>

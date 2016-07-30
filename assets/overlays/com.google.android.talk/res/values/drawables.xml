@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <drawable name="ab_solid">@*common:color/accent</drawable>
+    <drawable name="tab_selected_focused_emeraldsea">@*common:color/ab_text_color</drawable>
+    <drawable name="tab_selected_pressed_emeraldsea">@*common:color/ab_text_color</drawable>
+
+    <drawable name="tab_unselected">@*common:color/transparent</drawable>
+
+  
+	
+    </resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@color/header_action_bar_color</color>
+    <color name="primary_dark">@color/header_action_bar_color</color>
+    <color name="primary_light">@*common:color/music_accent</color>
+    <color name="accent">@*common:color/music_accent</color>
+    <color name="header_action_bar_color">@*common:color/primary</color>
+    <color name="black">#ff373b3a</color>
+
+
+<!-- Tab -->
+
+    <color name="tab_selected_text_color">#ffffff</color>
+    <color name="tab_unselected_text_color">#aaffffff</color>
+    <color name="tab_ripple_color">#ffffffff</color>
+    <color name="tab_accent_color">#FB236E</color>
+   
+
+   <!-- Background	-->
+    <color name="default_background">#ffffffff</color>
+    <color name="default_background_disabled">#ffffffff</color>
+    <color name="background_color">#ffffffff</color>
+    <color name="list_item_background">#ffffffff</color>
+    <color name="page_header_background">#ffffffff</color>
+    </resources>

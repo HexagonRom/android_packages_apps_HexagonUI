@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <attr name="colorButtonNormal" format="reference" />
+    <attr name="colorPopup" format="reference" />
+    <attr name="colorPopupDash" format="reference" />
+</resources>
